@@ -159,7 +159,7 @@ export function Projects() {
                 </div>
                 <div className="mt-5 flex items-center gap-3 text-sm">
                   <a
-                    href="https://github.com/Urujeni-Deborah"
+                    href="https://github.com/URUJENI123"
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex items-center gap-1 hover:text-[var(--neon)] transition-colors"
@@ -167,7 +167,7 @@ export function Projects() {
                     <ExternalLink className="w-3.5 h-3.5" /> Live
                   </a>
                   <a
-                    href="https://github.com/Urujeni-Deborah"
+                    href="https://github.com/URUJENI123"
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex items-center gap-1 hover:text-[var(--neon)] transition-colors"

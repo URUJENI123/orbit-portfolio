@@ -56,7 +56,7 @@ export function About() {
 
       <div className="mt-10">
         <a
-          href="/Deborah-Urujeni-CV.pdf"
+          href="https://docs.google.com/document/d/1sx1XkzJqFJla7_olNNMD6i7PrrnoTEW-D8d0LehW29k/edit?usp=sharing"
           download
           className="inline-flex items-center gap-2 glass rounded-full px-5 py-3 text-sm font-semibold hover:scale-[1.02] transition-transform"
         >

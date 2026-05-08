@@ -136,7 +136,7 @@ export function Hero() {
 
             <div className="flex items-center gap-2 ml-2">
               <a
-                href="https://github.com/Urujeni-Deborah"
+                href="https://github.com/URUJENI123"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="GitHub"

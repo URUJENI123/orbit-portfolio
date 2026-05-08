@@ -90,7 +90,7 @@ export function Contact() {
           </div>
           <div className="flex gap-2">
             <a
-              href="https://github.com/Urujeni-Deborah"
+              href="https://github.com/URUJENI123"
               target="_blank"
               rel="noreferrer"
               aria-label="GitHub"
